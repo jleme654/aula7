@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">P7_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Cadastro de Contatos</string>
+    <string name="menu_add">Adicionar Contato</string>
+    <string name="menu_agenda">Agenda</string>
+    <string name="menu_block">Bloquear Contato</string>
+    <string name="menu_blocked_user">Bloquear Contato selecionado</string>
+    <string name="menu_close_clear_cancel">Fechar</string>
+    <string name="delete">Excluir Contato</string>
+    <string name="menu_friendslist">Lista de Contatos</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_info_details">Detalhes do Contato</string>
+    <string name="menu_search">Buscar Contato</string>
+
+</resources>

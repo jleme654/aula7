@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.MainActivity" >
+
+    <item
+        android:id="@+id/menu_add"
+        android:icon="@drawable/ic_menu_add"
+        android:title="@string/menu_add"/>
+    <item
+        android:id="@+id/menu_friendslist"
+        android:icon="@drawable/ic_menu_friendslist"
+        android:title="@string/menu_friendslist"/>
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/ic_menu_search"
+        android:title="@string/menu_search"/>
+    <item
+        android:id="@+id/menu_close_clear_cancel"
+        android:icon="@drawable/ic_menu_close_clear_cancel"
+        android:title="@string/menu_close_clear_cancel"/>
+
+</menu>

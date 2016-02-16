@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="azul">#0000FF</color>
+    <color name="violeta">#EE82EE</color>
+    <color name="cinza">#DCDCDC</color>
+    <color name="rosa">#FFC0CB</color>
+    <color name="vermelho">#FF0000</color>
+    <color name="salmao">#FA8072</color>
+    <color name="laranja">#FFA500</color>
+    <color name="dourado">#FFD700</color>
+
+</resources>
