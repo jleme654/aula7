@@ -1,11 +1,21 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.MainActivity" >
+    xmlns:tools="http://schemas.android.com/tools" >
 
     <item
         android:id="@+id/menu_add"
         android:icon="@drawable/ic_menu_add"
-        android:title="@string/menu_add"/>
+        android:title="@string/menu_add">
+        <menu>
+            <group android:checkableBehavior="single">
+	            <item
+	                android:id="@+id/menu_agenda"
+	                android:title="@string/menu_agenda"/>
+	             <item
+	                android:id="@+id/info_details"
+	                android:title="@string/menu_info_details"/>                
+            </group>
+        </menu>
+    </item>
     <item
         android:id="@+id/menu_friendslist"
         android:icon="@drawable/ic_menu_friendslist"
